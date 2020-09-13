@@ -90,7 +90,7 @@ a {text-decoration:none;}
   background-color: rgba(0, 0, 0, 0.3);
 }
 .background:first-child {
-  background-image: url(../img/bg1.jpg);
+  background-image: url(bg1.jpg);
   -webkit-transform: translateY(-15vh);
           transform: translateY(-15vh);
 }
@@ -99,16 +99,16 @@ a {text-decoration:none;}
           transform: translateY(15vh);
 }
 .background:nth-child(2) {
-  background-image: url(../img/bg2.jpg);
+  background-image: url(bg2.jpg);
 }
 .background:nth-child(3) {
-  background-image: url(../img/bg3.jpg);
+  background-image: url(bg3.jpg);
 }
 .background:nth-child(4) {
-  background-image: url(../img/bg4.jpg);
+  background-image: url(bg4.jpg);
 }
 .background:nth-child(5) {
-  background-image: url(../img/bg5.jpg);
+  background-image: url(bg5.jpg);
 }
 
 /* Set stacking context of slides */
@@ -195,10 +195,6 @@ a {text-decoration:none;}
 }
 
 
-
-
-
-
 .fixedcallicon {
 	background: rgba(0,0,0,0.5);
     color: rgba(255,255,255,0.7);
@@ -237,7 +233,6 @@ border-top: 1px solid;
 	margin-bottom:30px;
 	font-weight:300;
 }
-
 
 
 .about {
